@@ -44,7 +44,7 @@ nav ul li a:hover{
     align-items: flex-end;
     justify-content: space-between;
     position: relative;
-    margin top: 5%;
+    margin-top: 5%;
 }
 .right{
     flex-basis: 40%;
