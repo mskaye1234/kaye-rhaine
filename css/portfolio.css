@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(27, 31, 34, 0.85);
+    background-repeat: repeat ;
+}
+/* portfolio section */
+#portfolio{
+ display: flex;
+ flex-direction: column;
+ 
+}
+.gallery{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap
+}
+.gallery img{
+    width: 360px;
+    height: 640px;
+    padding: 10px;
+    margin: 10px;
+
+}
+.gallery img:hover{
+    background-color: aliceblue;
+}   
+

@@ -1,0 +1,24 @@
+#container{
+    display: flex;
+}
+.div{
+    
+    width: 180px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+img{
+    width: 250px;
+    
+}
+ h2{
+    font-size: 500%;
+    font-weight: bolder;
+    justify-content: center;
+   
+ }
+ p{
+    font-size: 150%;
+    font-weight: bolder;
+
+ }
